@@ -1,5 +1,5 @@
 # SIMM-SOJ28
-Another 30 pin SIMM module based on whatever DRAM I could find new old stock at the time.
+Another 30 pin SIMM module based on whatever FP ASYNC DRAM I could find new old stock at the time.
 ## Design Goals
 + 2 layer
 + Low cost
